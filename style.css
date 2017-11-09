@@ -60,11 +60,6 @@ div.jumbotron {
    font-size: 60px;
 }
 
-p.jumbotron{
-  font-size: 20px;
-  padding-top: 0px;
-  padding-right: 40px;
-  padding-bottom: 0px;
-  padding-left: 40px;
-  line-height: 40px;
+.jumbotron p{
+
 }
