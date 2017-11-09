@@ -49,14 +49,14 @@ h3#header {
   text-decoration: none;
   color: #868e96;
 }
-<div class= "jumbotron"></div>{
+div.jumbotron{
     border-radius: 5px;
     background-color: #e9ecef;
     padding: 10px;
     text-align: center;
 }
 
-h1.jumbotron{
+h1#header.jumbotron{
    font-size: 60px;
 }
 
